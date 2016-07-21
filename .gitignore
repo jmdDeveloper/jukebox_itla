@@ -1,2 +1,7 @@
 **.exe
 Debug
+
+#to ignore file unnecesary of Dev C++
+src/*.o
+src/*.dev
+src/*.layout
